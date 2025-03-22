@@ -11,13 +11,12 @@ const location: {
     bahiano: "Nordestino com orgulho 🤠";
 }
 const hobbies = [
-  "Tocar guitarra","Assistir anime", "Games"
+  "Tocar guitarra","Assistir animes", "Ler algum livro", "Games"
   ]
 
 const cafeina = "Viciado em café ☕";
 const paixao = "Programação";
 
-// Formação
 const training = {
   education: "Análise e Desenvolvimento de Sistemas - UNESA",
   specialization: "Desenvolvimento Full Stack",
