@@ -22,6 +22,12 @@ const training = {
   education: "Análise e Desenvolvimento de Sistemas - UNESA",
   specialization: "Desenvolvimento Full Stack",
 }
+// Redes Sociais
+const socials = {
+    github: "https://github.com/joaomjbraga",
+    linkedin: "https://www.linkedin.com/in/joaomjbraga/",
+    instagram: "https://www.instagram.com/joaomjbraga/"
+}
 // Tecnologias 💡
 ```
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react)
@@ -35,12 +41,3 @@ const training = {
 ![Mysql](https://img.shields.io/badge/mysql-%2320232a.svg?style=flat&logo=mysql&logoColor=%2361DAFB)
 ![Sqlite](https://img.shields.io/badge/sqlite-%2320232a.svg?style=flat&logo=sqlite)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=flat&logo=docker)
-
-```javascript
-
-const socials = {
-    github: "https://github.com/joaomjbraga",
-    linkedin: "https://www.linkedin.com/in/joaomjbraga/",
-    instagram: "https://www.instagram.com/joaomjbraga/"
-}
-```
