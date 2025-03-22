@@ -12,7 +12,7 @@ const location: {
 }
 const hobbies = [
   "Tocar guitarra","Assistir anime", "Games"
-  ],
+  ]
 
 const cafeina = "Viciado em café ☕";
 const paixao = "Programação";
@@ -21,12 +21,6 @@ const paixao = "Programação";
 const training = {
   education: "Análise e Desenvolvimento de Sistemas - UNESA",
   specialization: "Desenvolvimento Full Stack",
-}
-// Redes Sociais
-const socials = {
-    github: "https://github.com/joaomjbraga",
-    linkedin: "https://www.linkedin.com/in/joaomjbraga/",
-    instagram: "https://www.instagram.com/joaomjbraga/"
 }
 // Tecnologias 💡
 ```
