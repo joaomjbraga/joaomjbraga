@@ -22,8 +22,8 @@ const training = {
   education: "Análise e Desenvolvimento de Sistemas - UNESA",
   specialization: "Desenvolvimento Full Stack",
 }
-// Tecnologias 💡
 ```
+### Tecnologias 💡
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=flat&logo=typescript&logoColor=%2361DAFB)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=flat&logo=tailwindcss)
