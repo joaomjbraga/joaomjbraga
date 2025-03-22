@@ -7,7 +7,7 @@ console.log("Olá, Devs e Curiosos! 👋 Sou João M");
 const location: {
     city: "Jaguarari",
     state: "Bahia",
-    country: "Brazil"
+    country: "Brazil",
     bahiano: "Nordestino com orgulho 🤠";
 }
 const hobbies = [
