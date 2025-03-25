@@ -11,7 +11,7 @@ const location: {
     bahiano: "Nordestino com orgulho 🤠";
 }
 const hobbies = [
-  "Tocar guitarra","Assistir animes", "Ler algum livro", "Games"
+  "Tocar guitarra","Assistir animes", "Ler alguns livro", "Games"
   ]
 
 const cafeina = "Viciado em café ☕";
