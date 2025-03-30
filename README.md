@@ -1,7 +1,7 @@
 ```javascript
 // João M J Braga - Desenvolvedor Full Stack 🚀
 
-console.log("Olá!,  👋 Sou João M");
+console.log("Olá mundo!,  👋 Sou João M");
 
 // Sobre Mim
 const location: {
